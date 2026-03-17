@@ -1,0 +1,80 @@
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\Scrap Sale System.exe.config
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\Scrap Sale System.exe
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\Scrap Sale System.pdb
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap Sale System.csproj.AssemblyReference.cache
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap_Sale_System.Properties.Resources.resources
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap Sale System.csproj.GenerateResource.cache
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap Sale System.csproj.CoreCompileInputs.cache
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap Sale System.exe
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap Sale System.pdb
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\Google.Protobuf.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\MySql.Data.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.Buffers.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.IO.Pipelines.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.Memory.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\ZstdSharp.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\Google.Protobuf.pdb
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\Google.Protobuf.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\MySql.Data.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.Buffers.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.IO.Pipelines.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.Memory.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap_Sale_System.Main.resources
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap Sale System.csproj.CopyComplete
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap_Sale_System.UpdateMasterfileControl1.resources
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap_Sale_System.ImportTransactionPanel1.resources
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap_Sale_System.InChargeAccountManagementControl.resources
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap_Sale_System.DeleteAccount.resources
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap_Sale_System.GenerateReport.resources
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\Scrap Sale System.exe.config
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\Scrap Sale System.exe
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\Scrap Sale System.pdb
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\BouncyCastle.Cryptography.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\Google.Protobuf.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\K4os.Compression.LZ4.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\K4os.Compression.LZ4.Streams.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\K4os.Hash.xxHash.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\MySql.Data.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.Buffers.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.Configuration.ConfigurationManager.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.IO.Pipelines.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.Memory.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.Numerics.Vectors.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.Threading.Tasks.Extensions.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\ZstdSharp.dll
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\BouncyCastle.Cryptography.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\Google.Protobuf.pdb
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\Google.Protobuf.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\K4os.Compression.LZ4.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\K4os.Compression.LZ4.Streams.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\K4os.Hash.xxHash.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\MySql.Data.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.Buffers.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.Configuration.ConfigurationManager.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.IO.Pipelines.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.Memory.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.Numerics.Vectors.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\bin\Scrap_Sale_System\System.Threading.Tasks.Extensions.xml
+C:\Users\c-ameng\source\repos\Scrap Sale System\Scrap Sale System\obj\Debug\Scrap_Sale_System.UpdatePriceForm1.resources
