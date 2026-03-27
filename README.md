@@ -57,3 +57,11 @@ The system integrates directly with the company’s main database server and sup
 
 ## License
 This project is **proprietary** and intended for internal company use. UI is limited in my project repo due to company's confidential nature. I requested my manager to get the backend of the project I made.
+
+---
+## Images
+![Main Screen](Screenshot%202026-02-02%20112320%20(1).png)
+![Generated report](Screenshot%202026-02-02%20111824.png)
+![Price Update](Screenshot%202026-02-02%20114011.png)
+
+
